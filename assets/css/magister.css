@@ -128,7 +128,7 @@ body {
 /********************************************************/
 /*                      Typography                      */
 /********************************************************/
-a { color:#ffffff; text-decoration: none; }
+a { color:#fff; text-decoration: none; }
 a:hover, a:active { color:#fff; text-decoration: underline; }
 .lead { 
 	font-weight:normal;
@@ -298,11 +298,11 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 /*                   Inverted theme                        */
 /***********************************************************/
 .theme-invert { 	
-	color:#222;
+	color:#ffffff;
 	color:rgba(0,0,0,.8); 
  }
 .theme-invert a { 
-	color:#000;
+	color:#ffffff;
 }
 .theme-invert .btn {
 	color:rgba(255,255,255,.8);
