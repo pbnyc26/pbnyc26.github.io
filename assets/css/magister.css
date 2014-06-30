@@ -298,11 +298,11 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 /*                   Inverted theme                        */
 /***********************************************************/
 .theme-invert { 	
-	color:#ffffff;
+	color:#222;
 	color:rgba(0,0,0,.8); 
  }
 .theme-invert a { 
-	color:#ffffff;
+	color:#000;
 }
 .theme-invert .btn {
 	color:rgba(255,255,255,.8);
