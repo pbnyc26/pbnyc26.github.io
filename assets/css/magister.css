@@ -128,7 +128,7 @@ body {
 /********************************************************/
 /*                      Typography                      */
 /********************************************************/
-a { color:#fff; text-decoration: none; }
+a { color:#ffffff; text-decoration: none; }
 a:hover, a:active { color:#fff; text-decoration: underline; }
 .lead { 
 	font-weight:normal;
@@ -142,7 +142,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	font-weight:normal;
 	font-size:7em;
 	margin-bottom:15px; 
-	color:#ffffff; 
+	color:#FDF9F4; 
 	line-height:1em;
 }
 .subtitle { 
