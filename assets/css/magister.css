@@ -128,7 +128,7 @@ body {
 /********************************************************/
 /*                      Typography                      */
 /********************************************************/
-a { color:#ffffff; text-decoration: none; }
+a { color:#fff; text-decoration: none; }
 a:hover, a:active { color:#fff; text-decoration: underline; }
 .lead { 
 	font-weight:normal;
@@ -333,7 +333,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 .theme-invert .title,
 .theme-invert .subtitle,
 .theme-invert .tagline { 
-	color:#ffffff; 
+	color:#484848 ; 
 }
 
 .theme-invert .btn-default {
