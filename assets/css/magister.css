@@ -323,7 +323,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
   background: #333;
 }
 .theme-invert .mainmenu .dropdown-menu a { 
-	color:#000;
+	color:#ffffff;
 }
 .theme-invert .mainmenu .dropdown-menu a:hover { 
 	background:rgba(0,0,0,.1);
